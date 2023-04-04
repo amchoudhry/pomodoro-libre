@@ -9,3 +9,7 @@ Look up "pomodoro", you will see a lot of options. BUT... they all require you t
 The purpose of this project is to give people a lightweight, aesthetic, pomodoro timer. The program will be designed to run independently, so you can run it on your local machine and not have to open a web browser. The website is JavaScript-free, simple, and modern. The code will always be free under GNU GPL v2.0.
 
 This project is underdevelopment, No website is up just yet :P
+
+### Developer Note
+
+I am a novice programmer, that is why this code is free. You can branch off and do your own project, or you can take this code and improve it. The goal here is to get people interested in making something simple that would have otherwise been proprietary.
